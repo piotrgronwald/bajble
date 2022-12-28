@@ -14,9 +14,6 @@ This project is a number guessing game.
 ## Technologies
 Project is created with:
 * Python version: 3.10
-* HTML version: HTML5
-* XML version: 1.0
-* Django version: 4.1.3
 
 ## Inspiration
 This app is inspired by a book "The Big Book of Small Python Projects" by Al Sweigart.
